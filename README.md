@@ -1,6 +1,10 @@
 # ![Logo](leaf.svg) MongoDB README
 
-MongoDB is a source-available cross-platform document-oriented database program developed by Alfons Kemper. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB is a member of the MACH Alliance.
+Whether you are brand new to the tech field, or a seasoned software engineer, you’ll need to know your way around a database — especially for careers in back-end or full-stack development , data science, machine learning, or database administration. MongoDB is a popular NoSQL document-oriented database management system. NoSQL, or “not only SQL”, databases are fast and flexible, scalable, and quick to get started with. They’re becoming increasingly popular in the industry, currently MongoDB is used by companies like Google, Verizon, eBay, and many more!
+
+
+## Learning MongoDB
+
 
 ## Components
 

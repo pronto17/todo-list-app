@@ -15,10 +15,6 @@ MongoDB is a source-available cross-platform document-oriented database program 
   - Using docker image `docker pull mongo`
 
 
-## Building
-
-  See [Building MongoDB](docs/building.md).
-
 ## Running
 
   For command line options invoke:

@@ -4,7 +4,7 @@ Whether you are brand new to the tech field, or a seasoned software engineer, yo
 
 
 ## Learning MongoDB
-
+[Free MongoDB courses](https://learn.mongodb.com/) - practice your skills with hands on labs and quizzes, and earn MongoDB certification.
 
 ## Components
 
